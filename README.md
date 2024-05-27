@@ -15,12 +15,12 @@ THE-SHIV/THE-SHIV is a ✨ _special_ ✨ repository because its README.md (this 
 
 
 <h2 align="center">
-    ─「 𝐒𝐇𝐈𝐕 𝐌𝐔𝐒𝐈𝐂 」─
+    ─「 𝐍𝐀𝐑𝐔 𝐌𝐔𝐒𝐈𝐂 」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
 <h2 align="center">
-    ─「 sʜɪᴠ ダ ᴍᴜsɪᴄ 」─
+    ─「 ɴᴀʀᴜ ダ ᴍᴜsɪᴄ 」─
 </h2>
 
 <p align="center">
@@ -43,13 +43,13 @@ THE-SHIV/THE-SHIV is a ✨ _special_ ✨ repository because its README.md (this 
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Rajputshivsingh65/DNS-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/narendragitala/MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://t.me/Dns_Official_Channel)
+- Get your [Necessary Variables](https://t.me/MR_NARU)
 - Upgrade and Update by :
 sudo apt-get update && sudo apt-get upgrade -y
 - Install Ffmpeg by :
