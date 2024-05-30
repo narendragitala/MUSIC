@@ -41,7 +41,7 @@ async def repo(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/Rajputshivsingh65/DNS-MUSIC"
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/mr_naru"
                     )
                 ]
             ]
@@ -59,7 +59,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/Rajputshivsingh65/DNS-MUSIC"
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/mr_naru"
                     )
                 ]
             ]
@@ -76,7 +76,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/Rajputshivsingh65/DNS-MUSIC"
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/mr_naru"
                     )
                 ]
             ]
