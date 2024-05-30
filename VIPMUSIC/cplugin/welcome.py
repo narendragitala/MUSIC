@@ -246,7 +246,7 @@ async def greet_new_member(
             button_text = "๏ ᴠɪᴇᴡ ɴᴇᴡ ᴍᴇᴍʙᴇʀ ๏"
             add_button_text = "๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏"
             deep_link = f"{user.id}"
-            add_link = f"https://t.me/TG_VC_BOT?startgroup=true"
+            add_link = f"https://t.me/dirtymindhu?startgroup=true"
             temp.MELCOW[f"welcome-{member.chat.id}"] = await client.send_photo(
                 member.chat.id,
                 photo=welcomeimg,
@@ -258,6 +258,7 @@ async def greet_new_member(
 **➻ ɪᴅ »** `{user.id}`
 **➻ ᴜ_ɴᴀᴍᴇ »** @{user.username}
 **➻ ᴛᴏᴛᴀʟ ᴍᴇᴍʙᴇʀs »** {count}
+𝐘𝐎𝐔𝐑 𝐅𝐀𝐓𝐇𝐄𝐑 @MR_NARU
 ▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 **❅─────✧❅✦❅✧─────❅**
